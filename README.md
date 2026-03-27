@@ -22,9 +22,9 @@
 ![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=napsterrahul&theme=dark&show_icons=true&count_private=true&cache_seconds=0)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=napsterrahul&theme=dark&hide_border=false&cache_seconds=0)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=napsterrahul&theme=dark&layout=compact&cache_seconds=0)
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=napsterrahul&show_icons=true&theme=dark)<br/>
+![](https://streak-stats.demolab.com?user=napsterrahul&theme=dark)<br/>
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=napsterrahul&layout=compact&theme=dark)
 
 ---
 
