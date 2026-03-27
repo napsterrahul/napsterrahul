@@ -6,11 +6,9 @@
 • 💬 Ask me about Laravel, React, Node.js, MSSQL, and backend optimization  
 • ⚡ Fun fact: I love optimizing slow queries and turning complex logic into clean solutions  
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahultathod/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tathodrahul@gmail.com)
-
 
 # 💻 Tech Stack:
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
@@ -23,11 +21,10 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
 
-
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=napsterrahul&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=napsterrahul&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=napsterrahul&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=napsterrahul&theme=dark&show_icons=true&count_private=true&cache_seconds=0)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=napsterrahul&theme=dark&hide_border=false&cache_seconds=0)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=napsterrahul&theme=dark&layout=compact&cache_seconds=0)
 
 ---
 
